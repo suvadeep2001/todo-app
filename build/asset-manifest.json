@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d4ab34ad.chunk.css",
+    "main.js": "/static/js/main.a88123f2.chunk.js",
+    "main.js.map": "/static/js/main.a88123f2.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.b0b04286.js",
+    "runtime-main.js.map": "/static/js/runtime-main.b0b04286.js.map",
+    "static/js/2.72a5bd6c.chunk.js": "/static/js/2.72a5bd6c.chunk.js",
+    "static/js/2.72a5bd6c.chunk.js.map": "/static/js/2.72a5bd6c.chunk.js.map",
+    "static/js/3.0da449d0.chunk.js": "/static/js/3.0da449d0.chunk.js",
+    "static/js/3.0da449d0.chunk.js.map": "/static/js/3.0da449d0.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.d4ab34ad.chunk.css.map": "/static/css/main.d4ab34ad.chunk.css.map",
+    "static/js/2.72a5bd6c.chunk.js.LICENSE.txt": "/static/js/2.72a5bd6c.chunk.js.LICENSE.txt",
+    "static/media/LCO-logo-white.fc122073.png": "/static/media/LCO-logo-white.fc122073.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b0b04286.js",
+    "static/js/2.72a5bd6c.chunk.js",
+    "static/css/main.d4ab34ad.chunk.css",
+    "static/js/main.a88123f2.chunk.js"
+  ]
+}
